@@ -14,7 +14,8 @@ message = (
     "health, and success!"
 )
 
-# Calculate the time for scheduling the message
+# Calculate the time for
+# scheduling the message
 send_hour = now.hour
 send_minute = now.minute + 1  # Send one minute from now
 
